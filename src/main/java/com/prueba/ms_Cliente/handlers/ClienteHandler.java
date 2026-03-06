@@ -17,7 +17,6 @@ import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
 @Component
-@Slf4j
 @RequiredArgsConstructor
 public class ClienteHandler {
 
